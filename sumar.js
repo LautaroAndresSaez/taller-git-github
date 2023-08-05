@@ -1,8 +1,8 @@
 /**
- * 
+ *
  * @param {*} a Primer parámetro de la suma
  * @param {*} b Segundo parámetro de la suma
- * @returns 
+ * @returns
  */
 
-const sumar = (a, b) => a + b;
+const add = (a, b) => a + b;
